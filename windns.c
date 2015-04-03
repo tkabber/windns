@@ -2,7 +2,7 @@
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
 #include <WinDNS.h>
-#include <winsock.h>
+#include <winsock2.h>
 #include <Iphlpapi.h>
 
 /* Code taken from win/tkWinTest.c of Tk
