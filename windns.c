@@ -1,9 +1,9 @@
 #include <tcl.h>
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
-#include <WinDNS.h>
+#include <windns.h>
 #include <winsock2.h>
-#include <Iphlpapi.h>
+#include <iphlpapi.h>
 
 /* Code taken from win/tkWinTest.c of Tk
  *----------------------------------------------------------------------
